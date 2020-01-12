@@ -1,6 +1,8 @@
 ## Setup
+Tensorflow 2.0 need Python 64bit 3.5-3.7
 ```
 python3 -m venv venv3
+pip install -r 
 ```
 
 ## GPU version
